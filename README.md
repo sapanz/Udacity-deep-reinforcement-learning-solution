@@ -1,4 +1,4 @@
 # Machine-learning-algorithms-with-code
-This repo will cover most of machine learning algorithms with coding examples.
+This repository will cover most of machine learning algorithms with coding examples.
 
 (Inprogress)
